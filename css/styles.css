@@ -116,13 +116,13 @@ a {
 }
 
 .cat-slider img {
-    width: 38px;
+    width: 68px;
     margin: auto;
     -webkit-filter: saturate(200%);
     filter: saturate(200%);
 }
 .cat-slider .rounded {
-    width: 64px;
+    width: 105px;
 }
 
 /* Grid Card */
@@ -707,6 +707,11 @@ p {
     background: #f5cd25;
 }
 
+/* Card-deck */
+
+.card-deck {
+  margin-bottom: 40px;
+}
 
 /* Login Page */
 
@@ -843,8 +848,13 @@ p {
 
 /* footer css */
 
+#footer {
+  height: 350px;
+}
+
 footer .text-muted {
     color: #bdbdbd !important;
+    cursor: default !important;
 }
 
 .hov_footer a:hover {
@@ -852,7 +862,8 @@ footer .text-muted {
 }
 
 .section-footer {
-    background: #000 !important;
+    background: #081726 !important;
+    margin-top: 100px;
 }
 
 .section-footer .border-top {
