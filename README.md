@@ -1,7 +1,7 @@
-echo "# uwlcanteen" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:guldenbelli/uwlcanteen.git
-git push -u origin main
+### Final year project for University of West London.
+
+Direct link: https://guldenbelli.github.io/uwlcanteen/
+
+Online ordering system made with the Bootstrap 4 framework. Only front-end, no back-end. 
+
+_Languages used: `HTML`, `CSS` and `JavaScript`_
